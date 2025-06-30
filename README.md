@@ -46,7 +46,7 @@ I love clean code, strong logic, and learning by building.
 |-----|-------------|
 | 🏧 **ATM Machine** | Java Swing UI for card and PIN login, interacts with MySQL DB, shows transactions |
 
-> > 📸 Want to see screenshots? Check the [`Projects` repo here](https://github.com/Viktor-Zdravkovski/Projects) 👈
+> 📸 Want to see screenshots? Check the [`Projects` repo here](https://github.com/Viktor-Zdravkovski/Projects) 👈
 
 ---
 
