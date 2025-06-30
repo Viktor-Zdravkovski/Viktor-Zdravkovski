@@ -38,7 +38,7 @@ I love clean code, strong logic, and learning by building.
 |-----|-------------|
 | 🍕 **Pizza Order System** | Full UI for customers to order pizzas, backend management with C# and SQL |
 | 🍔 **Burger Delivery Manager** | Staff-side order view, customer info, and delivery tracking system |
-| 🗓️ **Reservation App** | Restaurant reservation system with admin dashboard, made in WinForms |
+| 🗓️ **Reservation App** | Restaurant reservation system with admin dashboard |
 | 📊 **Product Table Display** | Displays and manages product listings with filtering and editing |
 
 ### ☕ Java Projects
